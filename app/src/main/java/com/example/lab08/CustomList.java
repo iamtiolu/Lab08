@@ -3,6 +3,7 @@ package com.example.lab08;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class CustomList {
     private List<City> cities;
 
@@ -17,5 +18,9 @@ public class CustomList {
     
 
     // Will be implemented later using TDD (leave blank for now)
-    // public boolean hasCity(City city) { ... }
+//     public boolean hasCity() {}
+
+
+
+
 }
